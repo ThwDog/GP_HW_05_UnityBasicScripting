@@ -1,4 +1,2 @@
-# unity-game-development-for-beginners
+# Gameproject_BasicScripting
 
-Slides
-https://docs.google.com/presentation/d/19ZWy35n7UGGjY8HRw9qqzDBK_tVfESreIAJfWf2fx2I/edit?usp=sharing
